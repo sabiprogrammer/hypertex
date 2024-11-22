@@ -177,6 +177,8 @@
 	.team-des {width: 100%; padding-left: 0;}
 	.faq-part .nav-tab li{margin-bottom: 20px;}
 	.work-box img{max-width: 90%;}
+	#add-margin-top{margin-top: 0;}
+	#adjust-height{height:450px;}
 
 	/*----- Home Page Tow -----*/
 	.home-banner-2 {padding-top: 30px; min-height: 710px;}

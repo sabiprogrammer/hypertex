@@ -151,7 +151,7 @@ header.fixed {padding: 15px 0px;}
 // Home Page Style  //----------------------------
 _______________________________________________________*/
 /*----- Home Banner -----*/
-.home-banner {padding: 220px 0px 140px 0px; overflow: hidden; background: url(../images/banner-bg.svg) no-repeat center / cover; background-attachment: fixed;}
+.home-banner {padding: 220px 0px 50px 0px; overflow: hidden; background: url(../images/banner-bg.svg) no-repeat center / cover; background-attachment: fixed;}
 .banner-heading {font-size: 50px; padding-bottom: 10px;}
 .banner-des {font-size: 16px; margin-bottom: 30px;}
 .banner-img {animation: MoveUpDown 2s linear infinite;text-align: center;}
@@ -551,3 +551,8 @@ footer.bg-pattern{background-position: center 125px; padding-bottom: 50px;}
 .copyright ul li:before{content: ""; position: absolute; top: 7px; right: 0; width: 2px; height: 12px;}
 .copyright ul li:last-child:before{width: 0;}
 /*----- Footer Section End -----*/
+
+
+/* MY NEW STYLES */
+#add-margin-top{margin-top: -100px;}
+#adjust-height{height:550px;}

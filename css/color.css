@@ -13,7 +13,7 @@ a.active {color: #da4bfd; }
 .owl-dot{background: #fff !important;}
 .owl-dot.active {background: #da4bfd !important;}
 
-#preloader{background: url(../images/loader.svg) center no-repeat #470fac;}
+#preloader{background: url(../images/entrance2.gif) center no-repeat #470fac;}
 
 .form-control, .form-control:focus{background: #5d19db; color: #fff;}
 .form-control::-webkit-input-placeholder {color: #8d56f3;}
